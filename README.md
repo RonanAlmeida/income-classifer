@@ -1,1 +1,1 @@
-# income-classifer
+# Income Classifer
